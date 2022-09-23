@@ -43,6 +43,7 @@ protected int h=70;
 			System.out.println(x.f);    //default         //recalling for non static variable
 			System.out.println(x.g);   //private
 			System.out.println(x.h);  //protected
+			System.out.println("add from git hub");
 		}
 }
 
