@@ -44,6 +44,7 @@ protected int h=70;
 			System.out.println(x.g);   //private
 			System.out.println(x.h);  //protected
 			System.out.println("add from git hub");
+			System.out.println("add into git hub");
 		}
 }
 
